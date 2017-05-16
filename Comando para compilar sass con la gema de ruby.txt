@@ -1,0 +1,1 @@
+ sass --watch C:/xampp/htdocs/EstructuraSass/sass/main.scss:C:/xampp/htdocs/EstructuraSass/css/main.css
